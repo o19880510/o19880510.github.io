@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Blog
+tags: [about, woo, tianjp]
+date: 2016-05-31
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://o19880510.github.io"><b>Woo</b></a> is a good person.</center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -27,7 +27,7 @@ date: 2016-03-21
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [live version of Moon](http://o19880510.github.io) hosted on GitHub.
 
 ## Getting Started
 
